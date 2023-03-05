@@ -19,6 +19,7 @@ var arrayLength = pass_list.length;
 leets = {
   a: "@",
   s: "$",
+  i: "!",
 };
 
 // Wave the word.
